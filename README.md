@@ -69,6 +69,10 @@
         <img alt="VueJS"
              src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 	</a> -->
+	<a href="#">
+        <img alt="Angular"
+             src="https://img.shields.io/badge/Angular-4b0082?style=for-the-badge&logo=angular&logoColor=FFC0CB"/>
+	</a>
     <a href="#">
         <img alt="NodeJS"
              src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
